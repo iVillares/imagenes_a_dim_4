@@ -15,7 +15,7 @@ salida
 
 En esta otra carpeta se colocaran las imagenes ajustadas en un Dim A4
 
-*** Ejecución
+### Ejecución
 ```
 redimensionar_proces.py
 ```
